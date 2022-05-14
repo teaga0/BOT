@@ -4,11 +4,8 @@ import telebot
 import requests
 import json
 
-ids = ['123124', '1231234123', '123124124']
 
-print(ids[0])
-
-TOKEN = '5305473022:AAGEpVIWYaxh9mH4RxhbFHRu7qpetRbxRlU'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 
